@@ -5,3 +5,7 @@
  Feature rebase
  Feature merge squash 
  Merge
+ Feature 2
+ Feature A
+ Feature rebase 
+ Feature merge-squash
