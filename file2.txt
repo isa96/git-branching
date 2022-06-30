@@ -4,3 +4,4 @@
  Feature A
  Feature rebase
  Feature merge squash 
+ Merge
