@@ -6,3 +6,4 @@
  Feature merge squash 
  Feature 2
  Feature A
+ Feature D
