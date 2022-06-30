@@ -8,3 +8,4 @@
  Master
  Feature merge squash 
  Feature 1
+ Feature A
