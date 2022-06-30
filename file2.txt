@@ -7,3 +7,4 @@
  Feature 2
  Feature A
  Feature rebase 
+ Feature merge-squash
