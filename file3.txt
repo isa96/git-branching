@@ -7,3 +7,4 @@ Feature rebase
 Feature 3
 Feature B
 Feature C
+Feature rebase
