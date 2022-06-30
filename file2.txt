@@ -1,0 +1,6 @@
+ Menambah file2.txt
+ Menambah baris file2.txt
+ Feature 2
+ Feature A
+ Feature rebase
+ Feature merge squash 
